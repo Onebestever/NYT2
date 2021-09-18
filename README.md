@@ -4,7 +4,7 @@
 
 ** link to project **
 
-![preview](week1/classwork/materials/NY Times/images/preview.png)
+![preview](https://raw.githubusercontent.com/Onebestever/NYT2/main/images/nyt.png)
 
 ### How It’s Made
 In this replica of the New York Times , I used a bunch of sections to separate all parts of my pages as single elements rather than grouped together. Which made it easier for me to target them and style them in the CSS. 
